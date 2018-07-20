@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "Swansea University"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "ARCHER-SSI Data Carpentry @ Swansea University"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Room 47, Talbot Building, Swansea University, Singleton Park, Swansea SA2 8PP"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "GB"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "EN"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
@@ -61,6 +61,27 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% elsif page.carpentry == "lc" %}
   {% include lc/intro.html %}
 {% endif %}
+
+<p id="where">
+  <strong>Organisers:</strong>
+  This workshop is provided by EPCC, Edinburgh Parallel Computing Centre, and organised in collaboration by ARCHER, the Software Sustainability Institute, and PRACE.
+</p>
+<p>
+  <a href="http://www.archer.ac.uk">ARCHER</a>, the UK's national
+  supercomputing service, offers training in software development and
+  high-performance computing to scientists and researchers across the
+  UK. As part of our training service we are running a two-day Data
+  Carpentry workshop. 
+</p>
+<p>
+  The <a href="http://www.software.ac.uk">Software Sustanability Institute</a>'s mission is to cultivate better, more sustainable, research software to enable world-class research (<a href="http://softwaresaved.spreadshirt.co.uk/"><em>better software, better research</em></a>). Software is fundamental to research: <a href="http://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers">seven out of ten UK researchers report that their work would be impossible without it</a>.
+</p>
+<p>
+PRACE Advanced Training Centres (PATCs) carry out and coordinate training and education activities that enable both European academic researchers and European industry to utilise the computational infrastructure available through PRACE.
+<li>
+The long-term vision is that PATCs will become the hubs and key drivers of European high-performance computing education. 
+</p>
+
 
 {% comment %}
   AUDIENCE
