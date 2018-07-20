@@ -85,7 +85,7 @@ The long-term vision is that PATCs will become the hubs and key drivers of Europ
 </p>
 <p>
 <a href="https://www.epcc.ed.ac.uk/education-training/general-training/training-collaborations/patc">PRACE Advanced Training Centres (PATCs)</a> carry out and coordinate training and education activities that enable both European academic researchers and European industry to utilise the computational infrastructure available through PRACE.
-<li>
+<br/>
 The long-term vision is that PATCs will become the hubs and key drivers of European high-performance computing education. 
 </p>
 
