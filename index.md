@@ -77,17 +77,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 -->
 <p>
 <a href="https://www.epcc.ed.ac.uk/education-training/general-training/training-collaborations/patc">PRACE Advanced Training Centres (PATCs)</a> carry out and coordinate training and education activities that enable both European academic researchers and European industry to utilise the computational infrastructure available through PRACE.
-<li>
+<br/>
 The long-term vision is that PATCs will become the hubs and key drivers of European high-performance computing education. 
 </p>
 <p>
   The <a href="http://www.software.ac.uk">Software Sustanability Institute</a>'s mission is to cultivate better, more sustainable, research software to enable world-class research (<a href="http://softwaresaved.spreadshirt.co.uk/"><em>better software, better research</em></a>). Software is fundamental to research: <a href="http://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers">seven out of ten UK researchers report that their work would be impossible without it</a>.
 </p>
-<p>
-<a href="https://www.epcc.ed.ac.uk/education-training/general-training/training-collaborations/patc">PRACE Advanced Training Centres (PATCs)</a> carry out and coordinate training and education activities that enable both European academic researchers and European industry to utilise the computational infrastructure available through PRACE.
-<br/>
-The long-term vision is that PATCs will become the hubs and key drivers of European high-performance computing education. 
-</p>
+
 
 
 {% comment %}
