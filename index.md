@@ -46,11 +46,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
@@ -180,6 +175,12 @@ and our administrator may contact you if we need any extra information.</h4>
     to-be-announced
   {% endif %}
   for more information.
+</p>
+
+<p id="register">
+  <strong>Registration</strong>:
+	To register, or to get more information, please, visit the 
+	<a href="http://www.archer.ac.uk/training/">ARCHER training page</a>.
 </p>
 
 <hr/>
