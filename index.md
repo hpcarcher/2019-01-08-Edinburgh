@@ -159,7 +159,7 @@ The long-term vision is that PATCs will become the hubs and key drivers of Europ
 {% endcomment %}
 <p id="etherpad">
   <strong>Etherpad:</strong> We will be using an "Etherpad" to assist collaboration during the workshop.
-  Please bookmark this page: https://pad.carpentries.org/2018-09-20-Swansea
+  Please bookmark this page: <a href="https://pad.carpentries.org/2018-09-20-Swansea">https://pad.carpentries.org/2018-09-20-Swansea</a>
 </p>
 
 
