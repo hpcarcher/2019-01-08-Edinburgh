@@ -714,18 +714,8 @@ The long-term vision is that PATCs will become the hubs and key drivers of Europ
     <div class="col-md-4">
       <h4 id="sql-windows">Windows</h4>
       <p>
-        The <a href="{{site.swc_installer}}">
-          {% if page.carpentry == "swc" %}
-          Software Carpentry
-          {% elsif page.carpentry == "dc" %}
-          Data Carpentry
-          {% elsif page.carpentry == "lc" %}
-          Library Carpentry
-          {% endif %}
-          Windows Installer
-	</a>
-        installs SQLite for Windows.
-        If you used the installer to configure nano, you don't need to run it again.
+      You can install SQLite using the instructions at <a href='http://www.sqlitetutorial.net/download-install-sqlite/'>this</a> page.
+      You also required DBBrowser, which can be installed following instructions on <a href=http://sqlitebrowser.org/'>this</a> page.
       </p>
     </div>
     <div class="col-md-4">
