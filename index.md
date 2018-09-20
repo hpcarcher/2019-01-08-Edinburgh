@@ -715,7 +715,7 @@ The long-term vision is that PATCs will become the hubs and key drivers of Europ
       <h4 id="sql-windows">Windows</h4>
       <p>
       You can install SQLite using the instructions at <a href='http://www.sqlitetutorial.net/download-install-sqlite/'>this</a> page.
-      You also required DBBrowser, which can be installed following instructions on <a href=http://sqlitebrowser.org/'>this</a> page.
+      You also required DBBrowser, which can be installed following instructions on <a href='http://sqlitebrowser.org/'>this</a> page.
       </p>
     </div>
     <div class="col-md-4">
